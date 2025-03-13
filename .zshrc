@@ -51,5 +51,6 @@ alias ghrl="gh repo list"
 alias cls="clear"
 
 clear
+tmux switch-client
 figlet Termux
 rxfetch
